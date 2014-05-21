@@ -1,0 +1,24 @@
+{
+  "name": "grunt-yaml2js",
+  "description": "Compiles YAML to JS.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Hitoshi Honma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:honmaaax/grunt-yaml2js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/honmaaax/grunt-yaml2js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/honmaaax/grunt-yaml2js/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "0.4.5"
+  }
+}
